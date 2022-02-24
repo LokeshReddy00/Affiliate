@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filp"
+        android:title="Flipcart"
+        android:icon="@drawable/flip"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/ama"
+        android:title="Amazon"
+        android:icon="@drawable/amazon"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/mintra"
+        android:title="Myntra"
+        android:icon="@drawable/myntra"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/snap"
+        android:title="SnapDeal"
+        android:icon="@drawable/snap"
+        app:cnb_backgroundColor="@color/black"/>
+
+</menu>

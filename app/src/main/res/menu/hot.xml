@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/oyo"
+        android:title="OYO"
+        android:icon="@drawable/oyo"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/tri"
+        android:title="Trivgo"
+        android:icon="@drawable/tri"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/yatra"
+        android:title="Yatra"
+        android:icon="@drawable/yatra"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/trip"
+        android:title="Make My Trip"
+        android:icon="@drawable/mytrip"
+        app:cnb_backgroundColor="@color/black"/>
+
+</menu>

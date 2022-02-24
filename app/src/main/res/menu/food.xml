@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/swiggy"
+        android:title="Swiggy"
+        android:icon="@drawable/swiggy"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/zomato"
+        android:title="Zomato"
+        android:icon="@drawable/zomato"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/panda"
+        android:title="Panda"
+        android:icon="@drawable/fpanda"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/just"
+        android:title="Just Eat"
+        android:icon="@drawable/justeat"
+        app:cnb_backgroundColor="@color/black"/>
+
+</menu>

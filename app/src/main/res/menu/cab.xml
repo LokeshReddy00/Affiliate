@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/ola"
+        android:title="OLA"
+        android:icon="@drawable/ola"
+        app:cnb_backgroundColor="@color/black"/>
+
+    <item
+        android:id="@+id/uber"
+        android:title="Uber"
+        android:icon="@drawable/uber"
+        app:cnb_backgroundColor="@color/black"/>
+
+</menu>
